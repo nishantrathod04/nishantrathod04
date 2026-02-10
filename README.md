@@ -23,12 +23,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishantrathod04&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=nishantrathod04&show_icons=true&theme=github_dark)
 
 ---
 
 ## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantrathod04&layout=compact&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantrathod04&layout=compact&theme=github_dark)
 
 ---
 
